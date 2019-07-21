@@ -65,6 +65,12 @@
     display: block;
   }
   h2 {
-    display: none;
+    visibility: hidden;
+  }
+  #social {
+    padding: 60px
+  }
+  #logo {
+
   }
 }
