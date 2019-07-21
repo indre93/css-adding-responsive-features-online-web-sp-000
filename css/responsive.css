@@ -73,6 +73,8 @@
   }
   #social a {
     display: inline-block;
+  }
+  #social {
     top: 60px;
   }
   #logo {
