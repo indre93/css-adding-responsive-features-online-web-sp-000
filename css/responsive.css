@@ -1,9 +1,12 @@
-/* smaller screens at 1100 px */
-
-.wrapper {
-  width: 90%;
-}
-@media only screen (max-width: 1100px){
-  .wrapper { width: 90%}
-  #social {width: }
+/* 1108 px */
+@media only screen (max-width: 1108px){
+  .wrapper {
+    width: 90%;
+  }
+  #social {
+    position: absolute;
+    width: auto;
+    top: 82px;
+    right: 4px;
+   }
 }
