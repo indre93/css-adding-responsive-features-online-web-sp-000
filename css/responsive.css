@@ -64,4 +64,7 @@
   #navbar nav a.menu-icon {
     display: block;
   }
+  h2 {
+    display: none;
+  }
 }
