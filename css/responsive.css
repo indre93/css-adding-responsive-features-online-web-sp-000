@@ -55,3 +55,13 @@
     height: auto;
   }
 }
+
+/* Bonus challenge 700px */
+@media only screen and (max-width: 760px){
+  #navbar nav a {
+    display: none;
+  }
+  #navbar nav a.menu-icon {
+    display: block;
+  }
+}
