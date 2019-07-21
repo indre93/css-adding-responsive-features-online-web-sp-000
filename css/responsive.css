@@ -71,7 +71,8 @@
   h2 {
     visibility: hidden;
   }
-  #social {
+  #social a {
+    display: inline-block;
     top: 60px;
   }
   #logo {
